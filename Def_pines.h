@@ -4,7 +4,7 @@
 *
 */
 
-
+// comentario agregado al codigo
 sbit TWI_SDA                at PORTC4_bit;
 sbit TWI_SCL                at PORTC5_bit;
 
